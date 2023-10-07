@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "464c88e9-6f38-4ac7-a880-6e307bd6db86",
+    "Modelo": "Ka Gl",
+    "Marca": "Ford",
+    "Cor": "vermelho",
+    "Cilindradas": 1,
+    "Potencia": 85,
+    "Ano": 2020,
+    "DataVenda": "2023-10-06T00:00:00"
+  },
+  {
+    "Id": "04c0c2b1-a857-4047-86f9-8b94b5690c03",
+    "Modelo": "Ipanema Gl",
+    "Marca": "Chevrolet",
+    "Cor": "prata",
+    "Cilindradas": 1.8,
+    "Potencia": 115,
+    "Ano": 1992,
+    "DataVenda": "2020-07-01T00:00:00"
+  },
+  {
+    "Id": "812a9412-b14f-4208-8460-77f048fcf44b",
+    "Modelo": "Palio El",
+    "Marca": "Fiat",
+    "Cor": "cinza",
+    "Cilindradas": 1.5,
+    "Potencia": 90,
+    "Ano": 1996,
+    "DataVenda": "2021-01-15T00:00:00"
+  },
+  {
+    "Id": "e13b9924-3322-46dd-a626-cf92ada3181b",
+    "Modelo": "Sc\u00E9nic Rxe Privil\u00E8ge",
+    "Marca": "Renault",
+    "Cor": "prata",
+    "Cilindradas": 1.6,
+    "Potencia": 90,
+    "Ano": 2001,
+    "DataVenda": "2023-09-10T00:00:00"
+  },
+  {
+    "Id": "6f5642c3-6066-4400-86c3-6232316cdf5c",
+    "Modelo": "Laguna Rt",
+    "Marca": "Renault",
+    "Cor": "prata",
+    "Cilindradas": 2,
+    "Potencia": 92,
+    "Ano": 1998,
+    "DataVenda": "2023-10-05T00:00:00"
+  },
+  {
+    "Id": "df9d811a-553a-4459-9611-af387477e497",
+    "Modelo": "Clio Hi-flex",
+    "Marca": "Renault",
+    "Cor": "preto",
+    "Cilindradas": 1,
+    "Potencia": 105,
+    "Ano": 2011,
+    "DataVenda": "2023-02-03T00:00:00"
+  }
+]
